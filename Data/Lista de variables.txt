@@ -1,0 +1,40 @@
+-------------------------------------------------------------
+		       Lista de variables
+-------------------------------------------------------------
+Fecha: Fecha en la que el partido se jugó (dd.mm.yyyy hh:mm)
+Arbitro: Arbitro del partido
+Local: Equipo que jugó en condición de local
+Visita: Equipo que jugó en condición de visita
+GL: Goles totales marcados por el equipo local
+GV: Goles totales marcados por el equipo visitante
+PL: Posesión total del balón del equipo local
+PV: Posesión total del balón del equipo visitante
+RemL: Remates totales del equipo local
+RemV: Remates totales del equipo visitante
+RpL: Remates a puerta totales del equipo local
+RpV: Remates a puerta totales del equipo visitante
+RfL: Remates fuera totales del equipo local
+RfV: Remates fuera totales del equipo visitante
+RbL: Remates rechazados totales del equipo local
+RbV: Remates rechazados totales del equipo visitante
+CL: Córneres totales del equipo local
+CV: Córneres totales del equipo visitante
+OffL: Fuera de juego totales del equipo local
+OffV: Fuera de juego totales del equipo visitante
+ArqL: Paradas totales del arquero local
+ArqV: Paradas totales del arquero visitante
+FL: Faltas totales del equipo local
+FV: Faltas totales del equipo visitante
+RL: Tarjetas rojas totales del equipo local
+RV: Tarjetas rojas totales del equipo visitante
+AL: Tarjetas amarillas totales del equipo local
+AV: Tarjetas amarillas totales del equipo visitante
+TpL: Pases totales del equipo local
+TpV: Pases totales del equipo visitante
+BkL: Tackles totales del equipo local
+BkV: Tackles totales del equipo visitante
+AtaqL: Ataques totales del equipo local
+AtaqV: Ataques totales del equipo visitante
+DAtaqL: Ataques peligrosos totales del equipo local
+DAtaqV: Ataques peligrosos totales del equipo visitante
+-------------------------------------------------------------
